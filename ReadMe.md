@@ -1,5 +1,16 @@
 # 💫 About Me:
-I'm a passionate Frontend Developer with 3 years of hands-on experience, currently contributing my expertise at Code-Huddle. My development journey is characterized by a strong focus on creating polished, user-centric web experiences enhanced by thoughtful animations. I specialize in building responsive and interactive interfaces that combine functionality with engaging visual elements. Currently, I'm expanding my technical horizons by exploring new frontend technologies and advanced animation techniques. My approach to development is driven by a commitment to professional excellence and a genuine enthusiasm for crafting seamless user experiences. Whether it's implementing complex animations or optimizing performance, I bring both technical skill and creative vision to every project I undertake.
+"Got an idea? I’d love to help you bring it to life!"
+
+Well, with a passion for frontend development and over three years of valuable experience, I’m excited to share that I specialize in crafting visually appealing, modern, and user focused  web applications using React.js and Next.js. I truly believe in the power of a well-integrated frontend and backend system, and I strive to bring this vision to life in every project I undertake.
+
+Currently, at Code Huddle, I’m playing a vital role in developing some fantastic web applications while tackling complex enterprise-level projects from around the globe. My journey has led me through various industries, including fitness, hospitality, e-commerce, and healthcare, where I’ve made a significant impact with my work.
+
+What sets me apart is my endless curiosity and determination to explore new technologies, frameworks, and tools as I’m always eager to innovate and improve my craft. My top priority is to build scalable and efficient architectures that meet client specifications and deadlines without compromising on the quality.
+
+Apart from the core technologies I use, I love diving into HTML, CSS, Tailwind CSS, JavaScript, React Query, micro frontends, and AWS Amplify.
+Working with me means enjoying a collaborative and positive experience. My dedication to my work is strong, and with my problem-solving skills and focused approach, I’ll turn your great ideas into reality.
+
+"Your next big project starts here - let’s connect!"
 
 
 ## 🌐 Socials:
