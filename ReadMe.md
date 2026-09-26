@@ -1,38 +1,95 @@
-# 💫 About Me:
-"Got an idea? I’d love to help you bring it to life!"
+# Hi, I'm Haris 👋
 
-Well, with a passion for frontend development and over three years of valuable experience, I’m excited to share that I specialize in crafting visually appealing, modern, and user focused  web applications using React.js and Next.js. I truly believe in the power of a well-integrated frontend and backend system, and I strive to bring this vision to life in every project I undertake.
+**Senior Frontend Engineer and Tech Lead (Web + Mobile)** · React, Next.js, React Native · Islamabad, Pakistan
 
-Currently, at Code Huddle, I’m playing a vital role in developing some fantastic web applications while tackling complex enterprise-level projects from around the globe. My journey has led me through various industries, including fitness, hospitality, e-commerce, and healthcare, where I’ve made a significant impact with my work.
+I've spent ~7 years shipping production React, the last 4+ full-time. Today I lead a 12-engineer web and mobile team at Code Huddle, building Next.js and React Native (Expo) products for clients in Denmark, Germany, the UK and the US.
 
-What sets me apart is my endless curiosity and determination to explore new technologies, frameworks, and tools as I’m always eager to innovate and improve my craft. My top priority is to build scalable and efficient architectures that meet client specifications and deadlines without compromising on the quality.
-
-Apart from the core technologies I use, I love diving into HTML, CSS, Tailwind CSS, JavaScript, React Query, micro frontends, and AWS Amplify.
-Working with me means enjoying a collaborative and positive experience. My dedication to my work is strong, and with my problem-solving skills and focused approach, I’ll turn your great ideas into reality.
-
-"Your next big project starts here - let’s connect!"
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haris788) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=flat-square&logo=less&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=flat-square&logo=stylus&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=haris-devo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=haris-devo&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haris-devo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=haris-devo&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=haris-devo&limit=5&theme=radical&combine_all_yearly_contributions=true)
+I care about three things: fast interfaces, architecture that survives the second year, and teams that ship without heroics.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=haris-devo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧭 What I do
+
+- **Lead**: own architecture, sprint planning, PR review and technical hiring for a 12-engineer team. I've run 25+ interviews and mentored 2 engineers to promotion.
+- **Build**: Next.js App Router and React Native (Expo) products, multi-tenant Supabase backends with Row Level Security, and realtime features over WebSockets and WebRTC.
+- **Make it fast**: Core Web Vitals, payload and query optimization, ISR at scale.
+- **Ship AI inside products**: streaming LLM chat interfaces and AI assessment flows. The team runs an agent-native workflow on Claude Code and Cursor that cut our Jira ticket cycle time ~30%.
+
+---
+
+## 🚀 Selected work
+
+> Most of my code lives in private client repositories under NDA, so it doesn't show up in the graph below. I'm happy to walk through the architecture of any of these on a call.
+
+| Product | What I did | Result |
+|---|---|---|
+| **QOM** · news publishing platform | Moved slot resolution from client-side JS filtering to a database lookup | Homepage DB egress **-85.6%** (1.56 MB to 230 KB), story page HTML **-44%**, parity verified across 136 slugs |
+| **[Honest Dog](https://honestdog.de)** · German dog marketplace | Led delivery on Next.js with ISR across 500+ breed pages | **25,000+ registered users**, 90+ Lighthouse, FCP **-40%** |
+| **LeadKPI** · multi-tenant SaaS for car dealerships | Architected tenant isolation on Supabase Postgres RLS with super-admin impersonation | 3 dealerships live, thousands of records per tenant |
+| **DriverHub** · driver hire, Denmark | Built one Expo app for driver and passenger flows: PostGIS matching, MitID and Veriff identity verification | Shipped to App Store and Google Play |
+| **GYMYG** · fitness SaaS | Live training over Daily.co WebRTC with realtime workout sync across web and mobile | Monitored in Sentry |
+| **Inform** · AI physiotherapy app | Built the AI assessment flow | Stabilized across 162 tracked defects (admin + mobile) |
+
+---
+
+## 🛠️ Open source and tools
+
+- **Next.js boilerplate generator** (co-architect): scaffolds Next.js 16, React 19, TypeScript and Tailwind 4 projects with 12 auth and ORM combinations. <!-- TODO: add repo / npm link -->
+- **Pumble MCP server**: TypeScript on Vercel serverless, 9 tools, so engineers can act on team chat threads and tasks from inside the editor. <!-- TODO: link if the repo is public -->
+
+---
+
+## 🧰 Tech stack
+
+**Frontend and mobile**
+![React](https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+
+**State, data and realtime**
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres_%2B_PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+
+**Quality, security and delivery**
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+Also: WCAG accessibility, i18n with Arabic RTL, OAuth, CSP, Storybook design systems, CI/CD.
+
+**AI engineering**
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_servers-111111?style=flat-square)
+
+---
+
+## 🤝 How I run a team
+
+- TypeScript strict and ESLint as the baseline, and a written code review standard, so reviews argue about design, not style.
+- Features ship with component and end-to-end tests, accessibility and RTL support as standard.
+- Agent-facing repo docs (CLAUDE.md, skill libraries), so AI output follows team conventions instead of each person prompting ad hoc.
+- Hiring with structured technical interviews for frontend, fullstack and AI roles.
+
+---
+
+## 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris-ahmed-software-engineer)
+[![Email](https://img.shields.io/badge/malikharis629%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:malikharis629@gmail.com)
