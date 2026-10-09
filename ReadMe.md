@@ -34,6 +34,8 @@ I care about three things: fast interfaces, architecture that survives the secon
 
 ## 🛠️ Open source and tools
 
+- **[rscope](https://github.com/haris-devo/rscope)**: finds the props bloating Next.js App Router pages. It parses React's Server Components payload and attributes every byte to a component and field, then fails CI when a route goes over budget. CLI, GitHub Action and an [in-browser analyzer](https://haris-devo.github.io/rscope/), tested against Next.js 14, 15 and 16.
+- **[mcplock](https://github.com/haris-devo/mcplock)**: a lockfile and CI check for MCP tool definitions, so a server that silently changes or poisons its tools fails the build.
 - **Next.js boilerplate generator** (co-architect): scaffolds Next.js 16, React 19, TypeScript and Tailwind 4 projects with 12 auth and ORM combinations. <!-- TODO: add repo / npm link -->
 - **Pumble MCP server**: TypeScript on Vercel serverless, 9 tools, so engineers can act on team chat threads and tasks from inside the editor. <!-- TODO: link if the repo is public -->
 
